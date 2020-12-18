@@ -1,0 +1,10 @@
+/*
+    Theme Name: child-of-twentytwenty
+    Theme URI: adam7power.myportfolio.com
+    Description: Child theme based on Twenty Twenty wordpress theme
+    Author: Adam Power
+    Version 1.0
+    Template: twentytwenty
+*/
+
+@import url('../twentytwenty/style.css');
